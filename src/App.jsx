@@ -26,7 +26,7 @@ function App() {
               : "",
         }}
       ></div>
-      <section className="font-['Work_Sans'] absolute top-0 translate-y-40 lg:translate-y-44 mx-4 px-4 xs:mx-6 xs:px-6 pt-6 lg:pt-12 pb-5 bg-white rounded-lg lg:rounded-2xl lg:w-[600px] lg:mx-[212px] lg:px-10 1.5xl:mx-[420px] 2xl:mx-[660px]">
+      <section className="font-['Work_Sans'] absolute top-0 translate-y-40 lg:translate-y-44 mx-4 px-4 xs:mx-6 xs:px-6 pt-6 lg:pt-12 pb-5 bg-white rounded-lg lg:rounded-2xl lg:w-[600px] lg:mx-[212px] lg:px-10 1.5xl:mx-[420px] 2xl:mx-[660px] shadow-2xl">
         <h1 className="font-bold text-[hsl(292,42%,14%)] text-3xl lg:text-6xl text-start flex gap-6 items-center">
           <img className="w-6 lg:w-9" src="/icon-star.svg" alt="" />
           FAQs
